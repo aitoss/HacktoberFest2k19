@@ -1,3 +1,3 @@
 # HacktoberFest
 
-Shailesh participated here.
+Shivam participated here.
