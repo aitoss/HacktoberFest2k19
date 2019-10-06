@@ -1,0 +1,30 @@
+//program of hackerrank
+#include <bits/stdc++.h>
+
+using namespace std;
+
+
+int main()
+{
+    int n,i,j,sum=0,sub=0;
+    cin>>n;
+    int a[n][n];
+    for(i=0;i<n;i++)
+    {
+        for(j=0;j<n;j++)
+        {
+            cin>>a[i][j];
+        }
+    }
+    for(i=0;i<n;i++)
+    {
+        for(j=n-1;j>=0;j--)
+        {
+           sum=sum+(a[i][i]-a[i][j]);
+        }
+    }
+
+    sub=abs(sum);
+    cout<<sub;
+    return 0;
+}
