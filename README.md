@@ -1,3 +1,3 @@
 # HacktoberFest
 
-Shailesh participated here.
+Aman Thakur participated here.
