@@ -1,3 +1,3 @@
 # HacktoberFest
 
-rishabh
+rishabh rathore
