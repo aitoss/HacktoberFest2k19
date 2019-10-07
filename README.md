@@ -9,3 +9,6 @@ created a webpage...
 
 
 FLasHxd
+
+
+!Doctype.html
