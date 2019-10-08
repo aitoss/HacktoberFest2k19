@@ -1,5 +1,7 @@
 # HacktoberFest
 
+Aman Thakur participated here.
+
 Shailesh participated here.
 
 ishan participated here.
