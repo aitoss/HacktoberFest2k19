@@ -14,7 +14,7 @@ nikhil participated here.
 
 ishan participated here.
 
-Priya participated here. 
+Priya participated here.
 
 Pranav participated here.
 
@@ -44,8 +44,10 @@ Akash Saxena Participated here.
 
 Sourabh participated here.
 
-deepshika ma'am 
+deepshika ma'am
 
 Shellkore participated here.
 
 Akshat Participated here.
+
+Thanate Participated here.
