@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-
+//easy
 using namespace std;
 
 int main()
