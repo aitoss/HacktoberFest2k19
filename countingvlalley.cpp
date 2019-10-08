@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-
+                               //  i changed this
 int main()
 {
     int n;
