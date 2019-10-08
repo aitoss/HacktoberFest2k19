@@ -4,7 +4,7 @@ rishabh rathore
 
 Shailesh participated here.
 
-xerocks bhi yahin pe h.
+Vaibhav participated here.
 
 Aman was here
 
@@ -23,4 +23,3 @@ deepshika ma'am
 Shellkore participated here.
 
 Akshat Participated here.
-
