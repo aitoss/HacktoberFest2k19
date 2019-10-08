@@ -1,12 +1,20 @@
 # HacktoberFest
 
+Shailesh participated here.
 
-N Purushotam Kumar participated here. 
+N Purushotam Kumar participated here
 
-check
+Shivendra participated here.
 
+we're also trying
 
-FLasHxd
+Akash Saxena Participated here.
 
+Sourabh participated here.
 
-!Doctype.html
+deepshika ma'am 
+
+Shellkore participated here.
+
+Akshat Participated here.
+
