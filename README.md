@@ -82,7 +82,7 @@ nikhil participated here.
 
 ishan participated here.
 
-Priya participated here. 
+Priya participated here.
 
 Pranav participated here.
 
@@ -125,6 +125,9 @@ deepshika ma'am
 Shellkore participated here.
 
 Akshat Participated here.
+
+
+Thanate Participated here.
 
 deeps-bhagwan
 
