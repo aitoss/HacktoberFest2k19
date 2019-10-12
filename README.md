@@ -90,7 +90,7 @@ rishabh rathore
 
 Shailesh participated here.
 
-Will do anything for tshirt.
+codeslayer was also here.
 
 Ravinder Singh also participated
 
