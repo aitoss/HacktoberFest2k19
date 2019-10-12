@@ -86,6 +86,8 @@ rishabh rathore
 
 Shailesh participated here.
 
+Rohit participated here.
+
 Snehasis participated here.
 
 Anuranjan participated here.
