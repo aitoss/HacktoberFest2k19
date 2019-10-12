@@ -92,6 +92,8 @@ rishabh rathore
 
 Shailesh participated here.
 
+Codeslayer will participate in innerve 2k20.
+
 codeslayer was also here.
 
 Ravinder Singh also participated
