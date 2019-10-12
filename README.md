@@ -60,6 +60,8 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
   - **📤Push the updates the the online forked repository:** `git push`
 Shailesh participated here.
 
+kumarpankaj
+
 there should be a training session for hactoberfest.
 
 Aniket participated here.
