@@ -90,7 +90,7 @@ Akshat participates here.
 
 Purushotam participated here.
 
-rishabh rathore
+rishabh  Rathore
 
 Shailesh participated here.
 
