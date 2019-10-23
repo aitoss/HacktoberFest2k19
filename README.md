@@ -1,6 +1,6 @@
 # HacktoberFest
 
-rishabh rathore
+rishabh  Rathore
 
 Shailesh participated here.
 
