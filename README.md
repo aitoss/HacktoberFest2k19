@@ -56,7 +56,6 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 # 👨‍💻Contributers/Participants
 - Shailesh participated here.
 - [Aman](http://www.github.com/amannirala13)
-- Shailesh participated here.
 - Rishabh Participated here
 - kumarpankaj
 - Aniket participated here.
