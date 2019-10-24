@@ -8,12 +8,6 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
 
 - **Sign up anytime between October 1 and October 31.**
 
-# 👨‍💻Contributers/Participants
-- Shailesh participated here.
-- [Aman](http://www.github.com/amannirala13)
-
-> Enter your name here to contribute
-
 # How to contribute?
 
 There are two ways to contribute to this repository! Lets jump into it!!!!
@@ -58,90 +52,48 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 - ## Updating your forked repository with that of the parent:
   - **📥Fetch the changes to the the forked repository:** `git fetch upstream`
   - **📤Push the updates the the online forked repository:** `git push`
-Shailesh participated here.
 
-Rishabh Participated here
+# 👨‍💻Contributers/Participants
+- Shailesh participated here.
+- [Aman](http://www.github.com/amannirala13)
+- Rishabh Participated here
+- kumarpankaj
+- Aniket participated here.
+- Aman thakur participated here.
+- subham participated here.
+- Dweep participated here.
+- Aman Thakur participated here.
+- sushil kumar participated here.
+- nikhil participated here.
+- ishan participated here.
+- Priya participated here.
+- Pranav participated here.
+- Akshat participates here.
+- Purushotam participated here.
+- rishabh rathore
+- Vaibhav participated here again.
+- Codeslayer will participate in innerve 2k20.
+- codeslayer was also here.
+- Ravinder Singh also participated
+- Rohit participated here.
+- Snehasis participated here.
+- Anuranjan participated here.
+- Vaibhav participated here.
+- Aman was here
+- N Purushotam Kumar participated here
+- Shivendra participated here.
+- we're also trying
+- Akash Saxena Participated here.
+- Sourabh participated here.
+- deepshika ma'am
+- [Shellkore](http://www.github.com/shellkore) participated here.
+- Akshat Participated here.
+- Purushotam was here again.
+- Thanate Participated here.
+- deeps-bhagwan
+- Khemmapon Participated here.
+- Patrick participated here
+- ShellyBot was here
+- DEEPAK participated here.
 
-kumarpankaj
-
-there should be a training session for hactoberfest.
-
-Aniket participated here.
-
-Aman thakur participated here.
-
-subham participated here.
-
-Dweep participated here.
-
-Aman Thakur participated here.
-
-sushil kumar participated here.
-
-nikhil participated here.
-
-ishan participated here.
-
-Priya participated here.
-
-Pranav participated here.
-
-Akshat participates here.
-
-Purushotam participated here.
-
-rishabh rathore
-
-Shailesh participated here.
-
-Vaibhav participated here again.
-
-Codeslayer will participate in innerve 2k20.
-
-codeslayer was also here.
-
-Ravinder Singh also participated
-
-Rohit participated here.
-
-Snehasis participated here.
-
-Anuranjan participated here.
-
-Vaibhav participated here.
-
-Aman was here
-
-N Purushotam Kumar participated here
-
-Shivendra participated here.
-
-we're also trying
-
-Akash Saxena Participated here.
-
-Sourabh participated here.
-
-deepshika ma'am
-
-Shellkore participated here.
-
-Akshat Participated here.
-
-I have been here Twice.
-
-what am i doing.
-
-Purushotam was here again.
-
-Thanate Participated here.
-
-deeps-bhagwan
-
-Khemmapon Participated here.
-
-Patrick participated here
-
-ShellyBot was here
-
-DEEPAK participated here.
+> Enter your name here to contribute
