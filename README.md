@@ -95,6 +95,7 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 - Patrick participated here
 - ShellyBot was here
 - DEEPAK participated here.
-alok participated here.
+- paracommando participated here.
+- alok participated here.
 
 > Enter your name here to contribute
