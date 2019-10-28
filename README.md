@@ -83,7 +83,7 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 - N Purushotam Kumar participated here
 - Shivendra participated here.
 - we're also trying
-- Akash Saxena Participated here.
+- Akash Sexena Participated here.
 - Sourabh participated here.
 - deepshika ma'am
 - [Shellkore](http://www.github.com/shellkore) participated here.
@@ -95,5 +95,7 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 - Patrick participated here
 - ShellyBot was here
 - DEEPAK participated here.
-paracommando participated here.
+- paracommando participated here.
+- alok participated here.
+
 > Enter your name here to contribute
