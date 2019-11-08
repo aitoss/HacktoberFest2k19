@@ -64,7 +64,7 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 - Dweep participated here.
 - Aman Thakur participated here.
 - sushil kumar participated here.
-- nikhil participated here.
+- nikiiiii participated here.
 - ishan participated here.
 - Priya participated here.
 - Pranav participated here.
