@@ -143,3 +143,5 @@ Khemmapon Participated here.
 ShellyBot was here
 
 DEEPAK participated here.
+
+> Why is world so full of hatred.
