@@ -36,6 +36,12 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
    
    - **💕Clone the repository:** `git clone https://github.com/YOUR_GITHUB_USER_NAME/HacktoberFes`
    
+   - **💕add upstream to the repository:** `git remote add upstream https://github.com/ORGANISTAION_NAME/HactoberFes`
+   
+   - **😎update the your local repository:** `git pull upstream`
+  
+   - **🗳merge the changes in local repository: **   `git merge upstream/master master`
+   
    - **😎Code Blooded:**  `Make changes to the project`
    
    - **🗳Add the changes made to git:** `git add .`
